@@ -1,6 +1,6 @@
 {
-  "homepage": "https://amald.me/",
-  "name": "Ange-Folio",
+  "homepage": "./",
+  "name": "amald-folio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
