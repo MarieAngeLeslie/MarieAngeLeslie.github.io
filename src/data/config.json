@@ -1,0 +1,41 @@
+{
+  "job": "Sofware Engineer",
+  "name": "Hellooo !",
+  "desc": "i'm Ange Leslie. I love to bring software solution to resolve real world problem.",
+  "aboutDesc": "Like Kent Beck, i really think that <<the most important skill for a developer is the ability to learn>> That's why I'm always keen to take on new challenges, whether or not they're within my comfort zone. ",
+  "email": "marieangeleslie0305@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://www.linkedin.com/in/marie-ange-aïkpe-395a96175",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "OverTheTrip",
+      "project-desc": "Stack: Flutter, Nestjs, React"
+    },
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "payxof WebVersion",
+      "project-desc": "Stack: ReactJS"
+    },
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "EMM'S ComeUp Prestation ",
+      "project-desc": "Stack: ReactJS, NodeJS, mySQL"
+    },
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "yemaksb",
+      "project-desc": "Stack: WordPress | mySQL"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaLinkedinIn",
+      "link": "www.linkedin.com/in/marie-ange-aïkpe-395a96175"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/MarieAngeLeslie"
+    }
+  ]
+}
